@@ -1,0 +1,36 @@
+Arrays
+1. Partition an array in to two subsets having same sum
+2. Print sub-arrays in a given array for which sum of sub-array is given input
+3. Print equilibrium point in a given array
+4. Shortest Subarray with Sum at Least K
+5. Trapping rainwater problem
+6. Largest rectangle in a histogram
+
+
+Sorting
+1. Merge Sort
+2. Quick Sort
+
+Strings
+1. Longest substring which has at most k distinct elements
+2. Longest palindromic substring
+3. Given a string, check for valid parenthesis
+4. Print if strings are one edit distance
+
+Graphs
+1. Print DFS
+2. Print BFS
+3. Has path
+4. Shortest path between nodes
+5. Land / Water  - Grid graph problem
+6. Word ladder
+
+DP
+1. Word break
+2. Print subsets of a given array for which sum of elements in sub array is given input
+
+
+1. Remove K digits from a number to get a smallest number possible
+
+Trick for spiral matrix traversal
+Find median from the data stream
